@@ -4,8 +4,8 @@
 ## Begin of user-editable part ##
 #################################
 
-POOL=eth.2miners.com:2020
-WALLET=0x155da78b788ab54bea1340c10a5422a8ae88142f.lolMinerWorker
+POOL=sia1.ethermine.org:4444
+WALLET=0x63f14D61Ab333211eC52561bE0Fc963177E8DE20.lolMinerWorker
 
 #################################
 ##  End of user-editable part  ##
